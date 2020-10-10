@@ -55,6 +55,6 @@ https://github.com/dolutattoo/DoluMappingTool
  https://forum.cfx.re/t/dolutattoo-mapping-tool/1552051
 
 # Credits:
-- @iTex_Zoz  and all his contributors for creating RageUI
-- @Bitou2k for his portal script in c#
-- @DiNO  for his help to make this script working <3
+- [@iTex_Zoz](https://github.com/iTexZoz)  and all his contributors for creating RageUI
+- [@Bitou2k](https://github.com/beetle2k) for his portal script in c#
+- [@DiNO](https://github.com/AnthonyTCS)  for his help to make this script working <3
